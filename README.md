@@ -11,3 +11,5 @@
 ##### Includes a README: 
   - ##### Description of the communication protocols: Daily check in and frequent video updates.
   - ##### At least one branch for each team member: 
+    - ##### JAM
+    - ##### PSS   
