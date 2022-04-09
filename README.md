@@ -13,3 +13,6 @@
   - ##### At least one branch for each team member: 
     - ##### JAM
     - ##### PSS   
+## Machine Learning Model
+##### Random Forecasts
+## Databases
