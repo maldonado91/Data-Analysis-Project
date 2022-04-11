@@ -4,6 +4,9 @@
 ## Overview
 Using historical baseball datasets we are analyzing the likelihood of present baseball players votes of entering into the Baseball Hall of Fame. Variables will include player position, awards, world series titles, hits, average, etc. The data will then be run through Random Forecasts to determine the likelihood of entering into the Baseball Hall of Fame.
 
+## Communication
+Communication between team members will primarily through slack and zoom calls.
+
 ## Presentation
 Selected Topic: *Current Baseball players chances of entering HOF.*
 
