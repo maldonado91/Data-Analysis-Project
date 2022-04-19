@@ -26,7 +26,14 @@ We will need to supplement the above data with other key variables like
 
 Lastly, we will need to find the data associated with PED's.
 
-Questions they hope to answer with the data: *We want to determine the likelihood of current players making it to the HOF.*
+Questions they hope to answer with the data: 
+- Batting statistics over the course of a players career
+- Pitching statistics over the course of a players career
+- Fielding statistics over the course of a players career
+- Variables with the biggest impacts on HOF votes
+- For players who we currently do not predict as a "Yes" for the HOF, what is missing?
+- Does the team a player plays for have an impact? 
+- We want to determine the likelihood of current players making it to the HOF.
 
 ## Github
 Includes a README: 
@@ -36,7 +43,12 @@ Includes a README:
     - PSS   
 
 ## Machine Learning Model
-Random Forecasts
+- Random Forecasts
+- Logistic Regression 
+- Gradient Boosting 
+- ADA Boost 
+- SVM
 
 ## Databases
 Postgres Database
+The ERD can be found [here]()
