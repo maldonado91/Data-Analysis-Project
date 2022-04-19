@@ -54,7 +54,9 @@ Postgres Database
 The ERD can be found [here](https://app.quickdatabasediagrams.com/#/d/RO0Lcv) and the SQL query [here](https://github.com/maldonado91/Data-Analysis-Project/blob/JAM/Resources/QuickDBD-BasebaseDataBankERD.sql)
 
 ## Who makes it to the Hall of Fame
-All includes (players, managers, executives, etc):
+All includes (players, managers, executives, etc)
 ![alt text](https://github.com/maldonado91/Data-Analysis-Project/blob/JAM/Resources/hof_all.PNG)
+
+
 Only players
 ![alt text](https://github.com/maldonado91/Data-Analysis-Project/blob/JAM/Resources/hof_players.PNG)
