@@ -51,4 +51,4 @@ Includes a README:
 
 ## Databases
 Postgres Database
-The ERD can be found [here]()
+The ERD can be found [here](https://app.quickdatabasediagrams.com/#/d/RO0Lcv)
