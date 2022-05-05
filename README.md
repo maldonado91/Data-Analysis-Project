@@ -35,6 +35,9 @@ Questions they hope to answer with the data:
 - Does the team a player plays for have an impact? 
 - We want to determine the likelihood of current players making it to the HOF.
 
+### Results
+[Google Slides](https://docs.google.com/presentation/d/1AuYp0s-iRQ1qM_pImX6MohjPnPuW1qP5zqmP0YCxanE/edit?usp=sharing)
+
 ## Github
 Includes a README: 
   - Description of the communication protocols: Daily check in and frequent video updates.
